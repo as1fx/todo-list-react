@@ -6,7 +6,7 @@
 
 A modern, responsive to-do list application built with React, Vite, and Tailwind CSS. Add, delete, and manage tasks with ease!
 
-👉 **Live Demo:** [https://your-username.github.io/repo-name/](https://as1fx.github.io/todo-list-react/)
+👉 **Live Demo:** [https://as1fx.github.io/todo-list-react/](https://as1fx.github.io/todo-list-react/)
 
 
 ---
